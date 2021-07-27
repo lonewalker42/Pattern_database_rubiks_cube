@@ -6,5 +6,4 @@
 # Once everything is compiled, generate the pattern databases next
 # open up two separate terminals and run these commands alongside each other to save some time:
 
-# $ ./generateEDB1_6
-# $ ./generateEDB2_6
+# $ ./generateEDB
